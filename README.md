@@ -1,2 +1,86 @@
 # sales-analysis-python
-Sales data analysis using python; cleaned the data ,processed it and fetched insights using creative plots.
+
+📊 Sales Analysis using Python:
+Analyze sales trends, product performance, and customer purchasing behavior using Python and Jupyter Notebook.
+
+
+📌 Overview:
+This project explores sales data from multiple months to uncover:
+✅ Top-selling products and their demand.
+✅ Peak sales months and best business periods.
+✅ City-wise sales performance.
+✅ Correlation between quantity ordered and product prices.
+✅ Interactive visualizations using Matplotlib & Seaborn.
+
+📂 Dataset Information:
+🔹 Source: [KeithGalli's Pandas Data Science Tasks Repository](https://github.com/KeithGalli/Pandas-Data-Science-Tasks)  
+🔹 Time Period: January 2019 - December 2019
+🔹 File Format: .csv (Comma-Separated Values)
+
+📊 Columns in the Dataset:
+Column Name	Description
+Order ID	Unique order identifier
+Product	Name of the product sold
+Quantity Ordered	Number of units sold
+Price Each	Price per unit
+Order Date	Date and time of the order
+Purchase Address	Customer location details
+
+🚀 Features & Analysis:
+✔ Data Cleaning: Handle missing values, incorrect formats, and duplicate entries.
+✔ Monthly Sales Trends: Identify peak sales months using groupby() and sum().
+✔ Product Demand Analysis: Find which products are ordered together most often.
+✔ City-Wise Sales: Analyze the best-performing cities for sales.
+✔ Visualization of Sales Trends: Using Matplotlib & Seaborn to create bar charts and line graphs.
+
+🛠 Installation & Usage
+🔧 Requirements
+Make sure you have Python 3.x and the required libraries installed:
+
+bash
+Copy
+Edit
+pip install pandas matplotlib seaborn numpy jupyter
+📜 Running the Project
+1️⃣ Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/sales-analysis-python.git
+2️⃣ Navigate to the folder
+
+bash
+Copy
+Edit
+cd sales-analysis-python
+3️⃣ Open Jupyter Notebook
+
+bash
+Copy
+Edit
+jupyter notebook
+4️⃣ Run sales_analysis.ipynb to execute the analysis.
+
+📊 Key Visualizations:
+📌 Example: Monthly Sales Trends
+![Monthly Sales Data](Monthly_sales_bar_chart.png)
+
+📌 Example: Sales by City
+![Sales by City](Total_sales_by_city_bar_chart.png)
+
+📬 Contributing
+Want to improve this project? Follow these steps:
+
+Fork this repository
+Make your changes
+Submit a pull request
+I’ll review and merge your contributions! 😊
+
+📄 License
+📜 This project is licensed under the MIT License. Feel free to modify and use it for your own projects.
+
+👨‍💻 Author
+👤 [Pratham Kumar]
+📧 Email: prathamkumar736@gmail.com
+🔗 GitHub: prathamkumarr
