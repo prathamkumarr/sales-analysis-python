@@ -64,10 +64,10 @@ jupyter notebook
 
 📊 Key Visualizations:
 📌 Example: Monthly Sales Trends
-![Monthly Sales Data](Monthly_sales_bar_chart.png)
+![Monthly Sales Data](Monthly_sales_data.png)
 
 📌 Example: Sales by City
-![Sales by City](Total_sales_by_city_bar_chart.png)
+![Sales by City](Total_sales_by_city.png)
 
 📬 Contributing
 Want to improve this project? Follow these steps:
