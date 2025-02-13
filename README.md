@@ -58,10 +58,10 @@ jupyter notebook
 
 📊 Key Visualizations:
 📌 Example: Monthly Sales Trends
-![Monthly Sales Data](https://imgur.com/9mypzuk)
+![Monthly Sales Data](https://imgur.com/a/QV73aID)
 
 📌 Example: Sales by City
-![Sales by City](https://imgur.com/jXWHUyp)
+![Sales by City](https://imgur.com/a/tGhowXi)
 
 📬 Contributing
 Want to improve this project? Follow these steps:
