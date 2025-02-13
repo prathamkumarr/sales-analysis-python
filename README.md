@@ -34,12 +34,6 @@ Purchase Address	Customer location details
 ✔ Visualization of Sales Trends: Using Matplotlib & Seaborn to create bar charts and line graphs.
 
 🛠 Installation & Usage
-🔧 Requirements
-Make sure you have Python 3.x and the required libraries installed:
-
-bash
-Copy
-Edit
 pip install pandas matplotlib seaborn numpy jupyter
 📜 Running the Project
 1️⃣ Clone the repository
@@ -47,7 +41,7 @@ pip install pandas matplotlib seaborn numpy jupyter
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/sales-analysis-python.git
+https://www.google.com/search?q=git+clone+https%3A%2F%2Fgithub.com%2Fyourusername%2Fsales-analysis-python.git&oq=git+clone+https%3A%2F%2Fgithub.com%2Fyourusername%2Fsales-analysis-python.git&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzc0NWowajeoAgiwAgE&sourceid=chrome&ie=UTF-8
 2️⃣ Navigate to the folder
 
 bash
@@ -64,10 +58,10 @@ jupyter notebook
 
 📊 Key Visualizations:
 📌 Example: Monthly Sales Trends
-![Monthly Sales Data](Monthly_sales_data.png)
+![Monthly Sales Data](https://imgur.com/9mypzuk)
 
 📌 Example: Sales by City
-![Sales by City](Total_sales_by_city.png)
+![Sales by City](https://imgur.com/jXWHUyp)
 
 📬 Contributing
 Want to improve this project? Follow these steps:
