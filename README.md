@@ -74,5 +74,5 @@ Email: prathamkumar736@gmail.com
 GitHub: prathamkumarr
 
 # Open Notebook in Colab
-[![Open in Colab – Sales Analysis](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prathamkumarr/Stock_price_Analysis/blob/main/Sales_Analysis.ipynb)
+[![Open in Colab – Sales Analysis](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prathamkumarr/Sales_Analysis/blob/main/Sales_Analysis.ipynb)
 
