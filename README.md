@@ -63,7 +63,7 @@ Want to improve this project? Follow these steps:
 Fork this repository
 Make your changes
 Submit a pull request
-I’ll review and merge your contributions! 😊
+I’ll review and merge your contributions! 
 
 # License
 This project is licensed under the MIT License. Feel free to modify and use it for your own projects.
@@ -72,3 +72,7 @@ Author
 [Pratham Kumar]
 Email: prathamkumar736@gmail.com
 GitHub: prathamkumarr
+
+# Open Notebook in Colab
+[![Open in Colab – Sales Analysis](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prathamkumarr/Stock_price_Analysis/blob/main/Sales%20Analysis.ipynb)
+
